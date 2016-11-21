@@ -1,0 +1,17 @@
+#sketch {
+    margin: 0;
+    display: flex;
+
+    /* This centers our sketch horizontally. */
+    justify-content: center;
+    width: 40%;
+    left: 30%;
+    margin: auto;
+    text-align: center;
+    /* This centers our sketch vertically. */
+    align-items: center;
+}
+#defaultCanvas0{
+    border-color: #111111;
+    border-style: solid;
+}
