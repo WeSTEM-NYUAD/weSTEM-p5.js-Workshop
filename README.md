@@ -2,7 +2,7 @@
 This workshop is designed for high school girls to encourage creative thinking and develop design thinking skills using p5.js.
 
 ##Goals
-Teach girls teamwork and leadership through a group design challenge, using ionic to implement ideas. Additionally, expose high school girls to technology that could spark an interest for computer science and other science careers.   
+Teach girls teamwork and leadership through a group design challenge, using p5.js as a tool to design emoji for aliens. Additionally, expose high school girls to technology that could spark an interest for computer science and other science careers.   
 
 
 ##Necessary materials
